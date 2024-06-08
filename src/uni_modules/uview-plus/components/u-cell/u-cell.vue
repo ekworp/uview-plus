@@ -197,7 +197,8 @@
 				font-size: $u-cell-title-font-size;
 				line-height: $u-cell-title-line-height;
 				color: $u-cell-title-color;
-
+				display: block;
+				
 				&--large {
 					font-size: $u-cell-title-font-size-large;
 				}
